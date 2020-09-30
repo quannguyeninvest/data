@@ -39,4 +39,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-06-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-06,2020-07-15,2020-07-15,Trả cổ tức đợt 1/2019 (1000 đ/cp),1000,10,1,2019
 2020-07-28,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-13,2020-08-14,,"Trả cổ tức năm 2019, Tỷ lệ 100:6",,6,,2019
 2020-08-12,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-08-12,,,LNST trên BCTC soát xét 6 tháng 2020 âm,,,,
-2020-09-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 8,314,163 cp",,,,
+2020-09-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-10-09,,,"Số lượng 8,314,163 cp",,,,

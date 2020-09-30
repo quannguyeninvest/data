@@ -32,4 +32,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-04-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-03-29,,,"Số lượng 3,814,143 cp",,,,
 2020-08-18,investorRight,KINDDIV,Cổ phiếu thưởng,2020-08-26,2020-08-27,,Tỷ lệ 100:10,,10,,
 2020-08-26,schedEvent,schedIssue,Dự kiến phát hành,2020-08-26,2020-08-26,,"Phát hành 1,322,123 cp ESOP",,,,
-2020-09-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 3,966,283 cp",,,,
+2020-09-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-10-02,,,"Số lượng 3,966,283 cp",,,,

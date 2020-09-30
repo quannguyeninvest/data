@@ -3,7 +3,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-11-15,investorRight,POLL,Lấy ý kiến cổ đông,2017-12-04,,,V.v Thông qua phát hành cổ phiếu ra công chúng cho cổ đông hiện hữu,,,,
 2019-01-25,investorRight,MEETING,Họp cổ đông,2019-03-11,2019-03-29,2019-03-29,ĐHĐCĐ thường niên năm 2019,,,,
 2020-03-16,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2020-03-25,,,Giá tham chiếu 11.000 đ/cp,,,,
-2020-03-25,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-03-25,,,Thời gian niêm yết dưới 06 tháng,,,,
+2020-03-25,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-03-25,2020-09-24,,Thời gian niêm yết dưới 06 tháng,,,,
 2020-05-20,investorRight,MEETING,Họp cổ đông,2020-05-13,2020-05-30,2020-05-30,ĐHĐCĐ thường niên năm 2020,,,,
 2020-06-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-06-29,2020-07-08,2020-07-08,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019
 2020-07-01,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-07-24,2020-07-27,,"Trả cổ tức đợt 2/2019, Tỷ lệ 100:5",,5,2,2019

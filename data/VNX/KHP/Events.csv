@@ -65,4 +65,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-09,schedEvent,schedIssue,Dự kiến phát hành,2020-08-27,2020-08-27,,"Dự kiến phát hành 16,020,518cp cho CĐHH",,40,,
 2020-08-03,investorRight,KINDDIV,Cổ phiếu thưởng,2020-08-19,2020-08-20,,Tỷ lệ 100:40,,40,,
 2020-08-18,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-08-18,,,LNST 6 tháng đầu năm 2020 âm,,,,
-2020-09-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 16,019,720 cp",,,,
+2020-09-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-10-08,,,"Số lượng 16,019,720 cp",,,,
