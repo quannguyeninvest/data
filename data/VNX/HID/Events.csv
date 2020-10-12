@@ -36,3 +36,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-20,stockAlert,noticed,Nhắc nhở,2020-07-17,,,Không công bố thông tin giao dịch cổ phiếu quỹ,,,,
 2020-08-14,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-05-07,2020-10-22,2020-10-22,Thay đổi ngày thanh toán cổ tức năm 2018 từ 17/8/2020 sang 22/10/2020,150,1.5,,2018
 2020-09-01,investorRight,MEETING,Họp cổ đông,2020-09-11,2020-09-27,2020-09-27,ĐHĐCĐ thường niên năm 2020,,,,
+2020-09-27,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:1.5",,1.5,,2019

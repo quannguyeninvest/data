@@ -11,7 +11,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-02-29,investorRight,MEETING,Họp cổ đông,2016-03-07,2016-04-08,2016-04-08,Đại hội đồng cổ đông thường niên năm 2016,,,,
 2016-03-30,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế giao dịch),2015-09-03,2016-04-05,,Lợi nhuận sau thuế năm 2013 và 2014 âm,,,,
 2016-04-01,stockAlert,alert,Cảnh báo,2016-04-05,2020-04-10,,BCTC mẹ và hợp nhất 2018 không là ý kiến chấp nhận toàn phần,,,,
-2016-04-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-04-05,,,"Thuộc diện bị cảnh báo, BCTC 2018 k là ý kiến ch.nhận t.phần",,,,
+2016-04-05,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-04-05,2020-10-08,,"Thuộc diện bị cảnh báo, BCTC 2018 k là ý kiến ch.nhận t.phần",,,,
 2017-03-09,investorRight,MEETING,Họp cổ đông,2017-03-21,2017-04-14,2017-04-14,ĐHCĐ thường niên năm 2017.,,,,
 2018-03-15,investorRight,MEETING,Họp cổ đông,2018-04-05,2018-04-21,2018-04-21,ĐHĐCĐ thường niên năm 2018,,,,
 2019-03-08,investorRight,MEETING,Họp cổ đông,2019-03-29,2019-04-19,2019-04-19,Họp ĐHĐCĐ thường niên năm 2019,,,,

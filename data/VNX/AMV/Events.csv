@@ -38,3 +38,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-05-15,investorRight,MEETING,Họp cổ đông,2020-05-27,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (2000 đ/cp),2000,20,,2019
 2020-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:40",,40,,2019
+2020-09-23,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 37,962,045cp cho CĐHH",,100,,

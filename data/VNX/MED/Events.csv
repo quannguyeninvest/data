@@ -6,6 +6,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-05-18,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-05-27,2016-06-08,2016-06-08,Trả cổ tức năm 2015 (1500 đ/cp),1500,15,,2015
 2018-03-20,investorRight,MEETING,Họp cổ đông,2018-04-05,,,ĐHĐCĐ thường niên năm 2018,,,,
 2020-03-11,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2020-03-18,,,Giá tham chiếu 45.000 đ/cp,,,,
-2020-03-13,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-03-18,,,Thời gian niêm yết dưới 06 tháng,,,,
+2020-03-13,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-03-18,2020-10-08,,Thời gian niêm yết dưới 06 tháng,,,,
 2020-05-15,investorRight,MEETING,Họp cổ đông,2020-05-28,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-07-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-14,2020-07-27,2020-07-27,Trả cổ tức năm 2019 (1500 đ/cp),1500,15,,2019

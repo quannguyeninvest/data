@@ -13,3 +13,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-10-07,stockAlert,noticed,Nhắc nhở,2019-10-04,,,Nhắc nhở thực hiện các quy định về quản trị công ty,,,,
 2020-08-04,investorRight,KINDDIV,Cổ phiếu thưởng,2020-08-13,2020-08-14,,Tỷ lệ 100:60,,60,,
 2020-08-11,stockAlert,noticed,Nhắc nhở,2020-08-11,,,V/v: Chủ tịch HĐQT kiêm nhiệm Tổng giám đốc,,,,
+2020-10-02,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-10-16,,,"Số lượng 15,000,000 cp",,,,

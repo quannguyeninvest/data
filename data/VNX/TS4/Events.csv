@@ -64,3 +64,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-04-17,investorRight,MEETING,Họp cổ đông,2020-05-06,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-06-10,investorRight,POLL,Lấy ý kiến cổ đông,2020-06-29,,,V.v Bổ sung thêm ngành nghề kinh doanh,,,,
 2020-09-09,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-09-09,,,Chậm CB BCTC 6T 2019 soát xét quá 05 ngày làm việc,,,,
+2020-09-30,stockAlert,alert,Cảnh báo,2020-10-07,,,Chậm nộp BCTC bán niên 2020,,,,

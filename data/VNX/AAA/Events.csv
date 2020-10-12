@@ -65,3 +65,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-08-03,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-08-12,,,"Số lượng 40,000,000 cp",,,,
 2020-09-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:5",,5,,2019
 2020-09-01,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-09-14,2020-09-24,2020-09-24,Trả cổ tức đợt 2/2019 (500 đ/cp),500,5,2,2019
+2020-10-05,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-10-19,2020-10-20,,"Trả cổ tức năm 2019, Tỷ lệ 100:5",,5,,2019

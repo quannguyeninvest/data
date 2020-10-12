@@ -18,7 +18,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-03-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:5",,5,,2016
 2017-06-02,investorRight,MEETING,Họp cổ đông,2017-06-13,2017-06-29,2017-06-29,ĐHCĐ thường niên năm 2017,,,,
 2017-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:5",,5,,2017
-2017-09-13,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-09-14,,,LNST 6T.2019 âm,,,,
+2017-09-13,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-09-14,2020-10-08,,LNST 6T.2019 âm,,,,
 2018-05-11,stockAlert,alert,Cảnh báo,2018-05-14,2019-06-27,,Chậm CBTT BCTC kiểm toán 2017 quá 15 ngày làm việc,,,,
 2018-07-30,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2018-07-31,2018-10-17,,Thuộc diện kiểm soát đặc biệt,,,,
 2018-10-15,stockAlert,suspend,Tạm ngừng giao dịch,2018-10-17,2019-06-27,,Không khắc phục nguyên nhân bị đưa vào diện kiểm soát,,,,

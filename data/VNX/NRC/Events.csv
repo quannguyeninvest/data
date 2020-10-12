@@ -1,4 +1,5 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
+2010-10-02,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 1,200,000cp ESOP",,4.35,,
 2017-04-04,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2017-04-05,2019-01-07,,Thời gian niêm yết dưới 6 tháng,,,,
 2018-03-21,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2018-04-05,,,Giá tham chiếu 21.000 đ/cp,,,,
 2018-04-13,investorRight,MEETING,Họp cổ đông,2018-05-03,2018-05-26,2018-05-26,ĐHĐCĐ thường niên năm 2018,,,,
@@ -22,3 +23,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-30,2020-12-22,2020-12-22,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019
 2020-08-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:5",,5,,2019
 2020-09-09,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 88,800,000cp cho CĐCL",,321.74,,
+2020-10-01,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-10-15,2020-10-16,,"Trả cổ tức năm 2019, Tỷ lệ 100:5",,5,,2019

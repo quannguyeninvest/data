@@ -15,3 +15,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-03-03,investorRight,MEETING,Họp cổ đông,2020-03-26,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-08-03,investorRight,KINDDIV,Cổ phiếu thưởng,2020-08-17,2020-08-18,,Tỷ lệ 100:10,,10,,
 2020-08-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-08-17,2020-09-16,2020-09-16,Trả cổ tức năm 2020 (500 đ/cp),500,5,,2020
+2020-10-01,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 456,500cp ESOP",,1.69,,

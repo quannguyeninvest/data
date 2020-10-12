@@ -24,4 +24,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-05-22,investorRight,MEETING,Họp cổ đông,2020-03-20,2020-06-27,2020-06-27,ĐHĐCĐ thường niên năm 2020,,,,
 2020-07-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-23,2020-09-10,2020-09-10,Trả cổ tức năm 2019 (800 đ/cp),800,8,,2019
 2020-08-11,investorRight,POLL,Lấy ý kiến cổ đông,2020-08-28,,,V/v: Thực hiện bảo lãnh phát hành trái phiếu của công ty con,,,,
-2020-09-25,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 28,000,000 cp",,,,
+2020-09-25,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-10-15,,,"Số lượng 28,000,000 cp",,,,

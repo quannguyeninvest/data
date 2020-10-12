@@ -54,6 +54,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-03-05,investorRight,MEETING,Họp cổ đông,2019-03-26,2019-04-26,2019-04-26,ĐHĐCĐ thường niên năm 2019,,,,
 2019-03-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-03-26,2019-04-10,2019-04-10,Trả cổ tức đợt 2/2018 (1500 đ/cp),1500,15,2,2018
 2019-03-21,stockAlert,noticed,Nhắc nhở,2019-03-20,,,Chậm công bố thay đổi SLCP có quyền biểu quyết đang lưu hành,,,,
+2019-08-15,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-08-15,2020-10-02,,BCTC bán niên 2019 ý kiến KT k phải chấp nhận toàn phần,,,,
 2020-04-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-03-25,2020-12-31,2020-12-31,Trả cổ tức đợt 1/2019 (1000 đ/cp),1000,10,1,2019
 2020-04-03,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2020-03-25,2020-12-31,2020-12-31,Thay đổi ngày chi trả cổ tức đợt 1 năm 2019 từ ngày 9/4/2020 sang ngày 31/12/2020,1000,10,1,2019
 2020-05-05,investorRight,MEETING,Họp cổ đông,2020-03-25,2020-05-09,2020-05-09,ĐHĐCĐ thường niên năm 2020,,,,

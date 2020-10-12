@@ -61,5 +61,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-11-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-11,2019-12-26,2019-12-26,Trả cổ tức đợt 1/2019 (478 đ/cp),478,4.78,1,2019
 2020-03-13,investorRight,MEETING,Họp cổ đông,2020-03-30,2020-04-25,2020-04-25,ĐHĐCĐ thường niên năm 2020,,,,
 2020-05-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-06-05,2020-06-22,2020-06-22,Trả cổ tức đợt 2/2019 (479 đ/cp),479,4.79,2,2019
-2020-09-11,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 1,674,369cp ESOP",,0.67,,
+2020-09-11,schedEvent,schedIssue,Dự kiến phát hành,2020-10-05,2020-10-05,,"Dự kiến phát hành 1,674,369cp ESOP",,0.67,,
 2020-09-14,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-09-24,2020-09-25,,"Trả cổ tức năm 2019, Tỷ lệ 100:9.57",,9.57,,2019
