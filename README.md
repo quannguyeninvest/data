@@ -20,6 +20,16 @@ npm run download -- --exchange=$EXCHANGE --type=BalanceSheetQuarter,IncomeStatem
 npm run download -- --exchange=VNX --type=Price,Events,Report
 npm run download -- --exchange=VN30F --type=Prices
 npm run download -- --exchange=VN30F --type=Price --symbols=gold,E1VFVN30
+# Zorro
+curl https://bgdatafeed.vps.com.vn/getlistckindex/hose --output broker/Paper/hose.json
+node_modules/.bin/babel-node --presets es2015 src/data/AssetsFix.js
+# VNX
+npm run portfolio
+node_modules/.bin/babel-node --presets es2015 src/data/AssetsVNX.js
+# VN30
+https://bgdatafeed.vps.com.vn/listvn30
+# E1VFVN30
+cd broker && node download/E1VFVN30.js && cd ..
 ```
 
 ## Run Filter
