@@ -48,5 +48,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-12-27,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-05-09,2020-12-25,2020-12-25,Thay đổi ngày chi trả cổ tức năm 2016 từ ngày 31/12/2019 sang ngày 25/12/2020,800,8,,2016
 2020-05-04,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-05-28,,,Hủy niêm yết trên HNX,,,,
 2020-05-28,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-06-04,,,Giá tham chiếu: 2.600 đ/cp,,,,
-2020-06-04,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-06-04,,,Không CBTT về họp ĐHĐCĐ thường niên năm 2020,,,,
+2020-06-04,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-06-04,,,Chậm công bố BCTC soát xét bán niên 2020,,,,
 2020-09-18,stockAlert,noticed,Nhắc nhở,2020-09-18,,,Chậm CBTT quá 30 ngày so với thời hạn QĐ đối với BCTC bán niên 2020 đã soát xét,,,,

@@ -39,6 +39,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-11-25,schedEvent,schedIssue,Dự kiến phát hành,2020-01-03,2020-01-03,,"Dự kiến phát hành 4,610,000cp ESOP",,4.97,,
 2020-02-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-01-04,,,"Số lượng 4,610,000 cp",,,,
 2020-04-09,stockAlert,alert,Cảnh báo,2020-04-16,2020-09-07,,LNST chưa pp tại 31/12/2019 trên  BCTC 2019 âm,,,,
-2020-04-10,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-04-10,,,Chứng khoán thuộc diện cảnh báo,,,,
+2020-04-10,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-04-10,2020-10-09,,Chứng khoán thuộc diện cảnh báo,,,,
 2020-04-21,investorRight,POLL,Lấy ý kiến cổ đông,2020-05-04,,,V/v: Sử dụng thặng dư vốn cổ phần để giảm lỗ lũy kế tại BCTC riêng và/hoặc hợp nhất,,,,
 2020-05-05,investorRight,MEETING,Họp cổ đông,2020-06-03,2020-06-30,2020-06-30,ĐHĐCĐ thường niên năm 2020,,,,

@@ -46,5 +46,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-05-15,investorRight,ISSUE,Phát hành thêm,2019-05-30,2019-06-26,,"Phát hành cổ phiếu cho CĐHH, tỷ lệ 100:67.2, giá 10.000 đ/cp",,67.2,,
 2020-04-23,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-05-22,,,Hủy niêm yết trên HNX,,,,
 2020-05-22,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-05-29,,,Giá tham chiếu: 400 đ/cp,,,,
-2020-05-27,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-05-29,,,Không CBTT về họp ĐHĐCĐ thường niên năm 2020,,,,
+2020-05-27,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-05-29,,,Chậm công bố BCTC soát xét bán niên 2020,,,,
 2020-09-18,stockAlert,noticed,Nhắc nhở,2020-09-18,,,Chậm CBTT quá 30 ngày so với thời hạn QĐ đối với BCTC bán niên 2020 đã soát xét,,,,

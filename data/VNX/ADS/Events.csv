@@ -23,3 +23,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-15,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 2,551,780cp cho CĐHH",,4.17,,
 2020-08-07,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-21,2020-08-24,,"Trả cổ tức năm 2019, Tỷ lệ 100:10",,10,,2019
 2020-08-24,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-08-24,,,LNST cty mẹ trên BCTC hợp nhất soát xét 6T 2020 âm,,,,
+2020-10-12,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 2,551,649 cp",,,,

@@ -3,4 +3,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-05-22,investorRight,MEETING,Họp cổ đông,2020-06-08,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-07-01,schedEvent,schedIssue,Dự kiến phát hành,,,,"Phát hành ESOP, giá 10.000 đ/cp",,0.8,,
 2020-07-02,schedEvent,schedIssue,Dự kiến phát hành,,,,Phát hành riêng lẻ tỷ lệ 100:9.99,,9.99,,
-2020-09-18,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 2,387,400cp ESOP",,0.74,,
+2020-09-18,schedEvent,schedIssue,Dự kiến phát hành,2020-10-09,2020-10-09,,"Dự kiến phát hành 2,387,400cp ESOP",,0.74,,
