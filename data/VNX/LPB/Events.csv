@@ -1,5 +1,5 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
-2017-09-29,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-10-05,,,Giá tham chiếu 14.800 đ/cp,,,,
+2017-09-29,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-10-05,2020-10-23,,Giá tham chiếu 14.800 đ/cp,,,,
 2017-11-07,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-11-14,2017-11-15,,"Trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:6",,6,,2016
 2017-12-18,investorRight,ISSUE,Phát hành thêm,2017-11-14,2017-12-20,,"Phát hành 32,946,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:5.1",,5.1,,
 2018-01-16,investorRight,MEETING,Họp cổ đông,2018-02-01,2018-03-28,2018-03-28,ĐHĐCĐ thường niên năm 2018,,,,
@@ -14,3 +14,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-03-16,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-03-20,,,Số lượng 88804224 cp,,,,
 2020-05-19,investorRight,MEETING,Họp cổ đông,2020-05-26,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-05-19,investorRight,POLL,Lấy ý kiến cổ đông,2020-05-26,,,"V/v: Thông qua Quy chế tổ chức Đại hội đồng cổ đông trực tuyến và bỏ phiếu điện tử, Thông qua Dự thảo Nghị quyết lấy ý kiến cổ đông bằng văn bản;",,,,
+2020-10-20,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2020-10-26,,,Hủy niêm yết trên UPCOM,,,,

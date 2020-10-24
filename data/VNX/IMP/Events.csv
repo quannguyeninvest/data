@@ -61,8 +61,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-03-08,investorRight,MEETING,Họp cổ đông,2019-03-26,2019-04-23,2019-04-23,ĐHĐCĐ thường niên năm 2019,,,,
 2019-05-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-13,2019-07-11,2019-07-11,Trả cổ tức năm 2018 (2000 đ/cp),2000,20,,2018
 2020-04-17,investorRight,MEETING,Họp cổ đông,2020-05-07,2020-05-30,2020-05-30,ĐHĐCĐ thường niên năm 2020,,,,
-2020-06-24,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-07-14,2020-07-15,,"Trả cổ tức năm 2019, Tỷ lệ 100:10",,10,,2019
 2020-06-24,investorRight,KINDDIV,Cổ phiếu thưởng,2020-07-14,2020-07-15,,Tỷ lệ 100:20,,20,,
+2020-06-24,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-07-14,2020-07-15,,"Trả cổ tức năm 2019, Tỷ lệ 100:10",,10,,2019
 2020-06-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-07-14,2020-07-31,2020-07-31,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019
 2020-08-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-08-20,,,"Số lượng 14,814,911 cp",,,,
 2020-08-12,schedEvent,schedIssue,Dự kiến phát hành,2020-10-07,2020-10-07,,"Dự kiến phát hành 2,469,300cp ESOP",,5,,

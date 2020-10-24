@@ -4,6 +4,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-01-17,schedEvent,schedIssue,Dự kiến phát hành,2020-08-07,2020-08-07,,"Dự kiến phát hành 185,277cp ESOP",,,,
 2020-03-10,investorRight,MEETING,Họp cổ đông,2020-03-26,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-04-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-04-20,,,Số lượng 888000 cp,,,,
-2020-07-08,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-07-16,2020-07-17,,"Trả cổ tức năm 2019, Tỷ lệ 100:41.6",,41.6,,2019
 2020-07-08,investorRight,KINDDIV,Cổ phiếu thưởng,2020-07-16,2020-07-17,,Tỷ lệ 100:73.4,,73.4,,
+2020-07-08,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-07-16,2020-07-17,,"Trả cổ tức năm 2019, Tỷ lệ 100:41.6",,41.6,,2019
 2020-09-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-16,,,"Số lượng 9,712,333 cp",,,,

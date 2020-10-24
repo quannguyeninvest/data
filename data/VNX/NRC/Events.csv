@@ -24,3 +24,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-08-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:5",,5,,2019
 2020-09-09,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 88,800,000cp cho CĐCL",,321.74,,
 2020-10-01,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-10-15,2020-10-16,,"Trả cổ tức năm 2019, Tỷ lệ 100:5",,5,,2019
+2020-10-19,investorRight,POLL,Lấy ý kiến cổ đông,2020-11-04,,,V/v: Thay đổi tên và bộ nhận diện thương hiệu Công ty,,,,

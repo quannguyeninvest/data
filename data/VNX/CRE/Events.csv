@@ -11,3 +11,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-04-22,schedEvent,schedIssue,Dự kiến phát hành,2019-02-14,2019-02-14,,"Dự kiến phát hành cổ phiếu cho cổ đông hiện hữu, tỉ lệ 100:100",,100,,
 2020-05-15,investorRight,MEETING,Họp cổ đông,2020-05-25,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-09-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-09-28,2020-10-19,2020-10-19,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019
+2020-10-16,investorRight,POLL,Lấy ý kiến cổ đông,2020-11-03,,,V/v: Thông qua phương án phát hành cổ phiếu tăng vốn điều lệ từ nguồn vốn chủ sở hữu.,,,,

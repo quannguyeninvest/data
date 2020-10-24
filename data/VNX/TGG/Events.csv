@@ -7,8 +7,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-08-31,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành 25.000.000 cp riêng lẻ,,,,
 2018-09-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2018-09-26,,,"Số lượng 1,299,990 cp",,,,
 2019-03-28,investorRight,MEETING,Họp cổ đông,2019-02-15,2019-04-10,2019-04-10,ĐHĐCĐ thường niên năm 2019,,,,
-2019-04-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2020, tỷ lệ 100:7",,7,,2020
 2019-04-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:5",,5,,2019
+2019-04-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2020, tỷ lệ 100:7",,7,,2020
 2020-03-03,stockAlert,noticed,Nhắc nhở,2020-03-03,,,Chậm nộp BCTC HN quý 4/2019 và sai sót trong lập BCTC,,,,
 2020-03-11,investorRight,MEETING,Họp cổ đông,2020-03-27,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-03-24,stockAlert,alert,Cảnh báo,2020-03-31,,,Chứng khoán thuộc diện cảnh báo,,,,

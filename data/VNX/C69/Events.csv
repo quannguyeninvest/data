@@ -17,5 +17,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-02-21,investorRight,MEETING,Họp cổ đông,2020-03-11,2020-03-27,2020-03-27,ĐHĐCĐ thường niên năm 2020,,,,
 2020-03-30,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (300 đ/cp),300,3,,2019
 2020-06-01,investorRight,MEETING,Họp cổ đông,2020-06-19,,,ĐHĐCĐ bất thường năm 2020,,,,
-2020-07-21,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 15,000,000cp cho CĐCL",,,,
+2020-07-21,schedEvent,schedIssue,Dự kiến phát hành,2020-10-06,2020-10-06,,"Dự kiến phát hành 15,000,000cp cho CĐCL",,,,
 2020-09-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-09-17,2020-09-29,2020-09-29,Trả cổ tức năm 2019 (300 đ/cp),300,3,,2019

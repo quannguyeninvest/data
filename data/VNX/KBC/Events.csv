@@ -39,9 +39,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-02-01,stockAlert,noticed,Nhắc nhở,2019-01-31,,,Chậm CBTT Nghị quyết HĐQT liên quan đến GD các bên liên quan,,,,
 2019-03-29,investorRight,MEETING,Họp cổ đông,2019-03-22,2019-04-12,2019-04-12,ĐHĐCĐ thường niên năm 2019,,,,
 2019-04-11,stockAlert,noticed,Nhắc nhở,2019-04-11,,,Chậm trả cổ tức,,,,
-2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu đợt 1/2018 (500 đ/cp),500,5,1,2018
-2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:20",,20,,2018
 2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu đợt 2/2018 (500 đ/cp),500,5,2,2018
+2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2018, tỷ lệ 100:20",,20,,2018
+2019-04-16,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu đợt 1/2018 (500 đ/cp),500,5,1,2018
 2019-06-28,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-07-12,2019-08-15,2019-08-15,Trả cổ tức đợt 1/2018 (500 đ/cp),500,5,1,2018
 2019-09-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-10-24,2019-11-29,2019-11-29,Trả cổ tức đợt 2/2018 (500 đ/cp),500,5,2,2018
 2020-06-12,investorRight,MEETING,Họp cổ đông,2020-05-26,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,
