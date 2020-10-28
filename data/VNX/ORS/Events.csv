@@ -21,5 +21,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-04-11,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2019-04-17,,,Giá tham chiếu 4.600 đ/cp,,,,
 2019-06-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-07-15,,,Số lượng 16000000 cp,,,,
 2019-10-28,schedEvent,schedIssue,Dự kiến phát hành,2020-01-02,2020-01-02,,"Dự kiến phát hành 3,960,000cp cho CĐCL",,,,
-2020-06-19,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 56,040,000cp cho CĐCL",,,,
+2020-06-19,schedEvent,schedIssue,Dự kiến phát hành,2020-10-19,2020-10-19,,"Dự kiến phát hành 56,040,000cp cho CĐCL",,,,
 2020-09-11,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-18,,,"Số lượng 3,960,000 cp",,,,

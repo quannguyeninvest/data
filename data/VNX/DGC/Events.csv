@@ -41,3 +41,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-16,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-07-22,,,Dự kiến chuyển sàn từ HNX sang HOSE,,,,
 2020-07-20,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2020-07-28,,,Giá tham chiếu 39.700 đ/cp,,,,
 2020-08-31,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-07,,,"Số lượng 19,403,327 cp",,,,
+2020-10-24,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2020 (1500 đ/cp),1500,15,,2020

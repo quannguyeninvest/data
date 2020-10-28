@@ -36,3 +36,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-04-25,schedEvent,schedIssue,Dự kiến phát hành,,,,Dự kiến phát hành 51000000 cp cho CĐHH hoặc ĐTCL,,,,
 2020-02-04,stockAlert,noticed,Nhắc nhở,2020-02-04,,,Chậm nộp BCQT năm 2019,,,,
 2020-06-24,investorRight,MEETING,Họp cổ đông,2020-06-12,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,
+2020-10-27,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-11-03,2020-11-04,,"Trả cổ tức năm 2019, Tỷ lệ 100:10",,10,,2019
