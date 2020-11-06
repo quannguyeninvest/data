@@ -6,5 +6,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-15,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 4,256,000cp cho CĐHH",,4.19,,
 2020-07-29,investorRight,POLL,Lấy ý kiến cổ đông,2020-08-18,,,V/v: Thông qua việc phát hành thêm cổ phần để hoán đổi cổ phần của cổ đông hai công ty.,,,,
 2020-08-10,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-21,2020-08-24,,"Trả cổ tức năm 2019, Tỷ lệ 100:32",,32,,2019
-2020-09-08,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 3,850,000cp cho CĐCL",,,,
+2020-09-08,schedEvent,schedIssue,Dự kiến phát hành,2020-11-02,2020-11-02,,"Dự kiến phát hành 3,850,000cp cho CĐCL",,,,
 2020-09-14,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-25,,,"Số lượng 4,255,984 cp",,,,

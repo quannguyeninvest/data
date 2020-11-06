@@ -49,3 +49,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-11-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-11-15,2019-11-28,2019-11-28,Trả cổ tức đợt 2/2018 (1200 đ/cp),1200,12,2,2018
 2020-05-08,investorRight,MEETING,Họp cổ đông,2020-06-03,2020-06-30,2020-06-30,ĐHĐCĐ thường niên năm 2020,,,,
 2020-07-01,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019
+2020-11-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-11-16,2020-11-27,2020-11-27,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019

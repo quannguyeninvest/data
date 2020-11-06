@@ -53,4 +53,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-09-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-29,,,"Số lượng 1,290,470 cp",,,,
 2020-09-25,investorRight,POLL,Lấy ý kiến cổ đông,2020-10-05,,,V/v: Bầu cử thành viên độc lập HĐQT nhiệm kỳ 2016-2021,,,,
 2020-10-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-10-14,,,"Số lượng 189,775 cp",,,,
-2020-10-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 14,543,110 cp",,,,
+2020-10-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-11-06,,,"Số lượng 1,069,130 cp",,,,
+2020-10-30,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-03-21,,,"Số lượng 273,980 cp",,,,
+2020-10-30,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-09-21,,,"Số lượng 13,200,000 cp",,,,
