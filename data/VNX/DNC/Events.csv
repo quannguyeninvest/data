@@ -53,3 +53,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-08-04,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 1/2020 (1000 đ/cp),1000,10,1,2020
 2020-09-08,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-09-21,2020-10-08,2020-10-08,Trả cổ tức đợt 1/2020 (1000 đ/cp),1000,10,1,2020
 2020-09-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-24,,,"Số lượng 1,027,530 cp",,,,
+2020-11-09,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 2/2020 (1000 đ/cp),1000,10,2,2020

@@ -19,3 +19,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-10-20,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2020-10-26,,,Hủy niêm yết trên UPCOM,,,,
 2020-10-23,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-10-23,,,Dự kiến chuyển sàn từ UPCOM sang HOSE,,,,
 2020-10-27,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2020-11-09,,,Giá tham chiếu: 11.800 đ/cp,,,,
+2020-11-09,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-11-09,,,Thời gian niêm yết dưới 06 tháng,,,,

@@ -11,3 +11,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-08-12,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2020-08-20,,,Hủy ĐKGD trên UPCOM,,,,
 2020-08-21,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2020-08-31,,,Giá tham chiếu: 28.000 đ/cp,,,,
 2020-08-31,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-08-31,,,Thời gian niêm yết dưới 06 tháng,,,,
+2020-11-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-11-25,2020-12-22,2020-12-22,Trả cổ tức năm 2019 (400 đ/cp),400,4,,2019

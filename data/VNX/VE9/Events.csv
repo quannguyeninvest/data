@@ -38,3 +38,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-04-07,stockAlert,alert,Cảnh báo,2020-04-09,,,LNST 2019 và LNST chưa pp tại 31/12/2019 âm,,,,
 2020-04-25,investorRight,MEETING,Họp cổ đông,2020-03-24,2020-05-22,2020-05-22,ĐHĐCĐ thường niên năm 2020,,,,
 2020-10-30,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-11-09,,,Hủy niêm yết trên HNX,,,,
+2020-11-05,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-11-05,,,Dự kiến chuyển sàn từ HNX sang UPCOM,,,,
+2020-11-10,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-11-17,,,Giá tham chiếu: 1.200 đ/cp,,,,

@@ -61,7 +61,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2017-06-07,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-06-16,,,Số lượng 32862291 cp,,,,
 2017-10-13,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2017-10-31,2017-11-01,,"Trả cổ tức năm 2017, Tỷ lệ 100:5",,5,,2017
 2017-11-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-12-12,,,"Số lượng 14,281,327 cp",,,,
-2017-12-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2010-11-11,,,Số lượng 3000000 cổ phiếu,,,,
+2017-12-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-11-11,,,"Số lượng 3,000,000 cp",,,,
 2018-02-21,investorRight,MEETING,Họp cổ đông,2018-01-29,2018-03-01,2018-03-01,ĐHĐCĐ thường niên năm 2018,,,,
 2018-05-15,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-05-22,2018-05-23,,"Trả cổ tức năm 2017, Tỷ lệ 100:13",,13,,2017
 2018-06-15,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,Số lượng 39378726 cp,,,,
