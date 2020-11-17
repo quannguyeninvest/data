@@ -21,3 +21,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-05-18,stockAlert,alert,Cảnh báo,2020-05-21,,,Chậm nộp BCTC năm 2019 quá 15 ngày,,,,
 2020-07-22,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2020-07-24,,,Tiếp tục vi phạm các quy định về CBTT,,,,
 2020-10-29,investorRight,MEETING,Họp cổ đông,2020-11-11,2020-11-27,2020-11-27,ĐHĐCĐ thường niên năm 2020,,,,
+2020-11-16,stockAlert,suspend,Tạm ngừng giao dịch,2020-11-17,,,Không khắc phục được nguyên nhân bị kiểm soát,,,,

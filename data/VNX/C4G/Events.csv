@@ -4,4 +4,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-04-30,investorRight,POLL,Lấy ý kiến cổ đông,2020-04-10,,,V/v: Bổ sung và sửa đổi một số điều lệ của Công ty,,,,
 2020-05-22,investorRight,MEETING,Họp cổ đông,2020-06-05,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,
 2020-05-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-06-05,2020-06-15,2020-06-15,Trả cổ tức đợt 1/2018 (800 đ/cp),800,8,1,2018
+2020-11-10,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:9",,9,,2019
 2020-11-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-11-26,2020-12-08,2020-12-08,Trả cổ tức đợt 2/2018 (400 đ/cp),400,4,2,2018

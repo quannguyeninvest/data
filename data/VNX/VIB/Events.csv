@@ -30,3 +30,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-10-21,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2020-10-30,,,Hủy ĐKGD trên UPCOM,,,,
 2020-11-04,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2020-11-10,,,Giá tham chiếu 32.300 đ/cp,,,,
 2020-11-10,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-11-10,,,Thời gian niêm yết dưới 06 tháng,,,,
+2020-11-12,investorRight,KINDDIV,Cổ phiếu thưởng,2020-11-19,2020-11-20,,Tỷ lệ 100:20,,20,,

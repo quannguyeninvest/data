@@ -7,5 +7,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-12-31,investorRight,KINDDIV,Cổ phiếu thưởng,2020-01-13,2020-01-14,,Tỷ lệ 100:60,,60,,
 2020-02-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-02-27,,,"Số lượng 7,799,997 cp",,,,
 2020-03-18,investorRight,MEETING,Họp cổ đông,2020-02-28,2020-05-22,2020-05-22,ĐHĐCĐ thường niên năm 2020,,,,
-2020-08-06,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 6,239,999cp cho CĐHH",,30,,
+2020-08-06,schedEvent,schedIssue,Dự kiến phát hành,2020-11-10,2020-11-10,,"Dự kiến phát hành 6,239,999cp cho CĐHH",,30,,
 2020-10-20,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-11-02,2020-11-03,,"Trả cổ tức năm 2019, Tỷ lệ 100:30",,30,,2019
