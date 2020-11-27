@@ -19,3 +19,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-04-29,investorRight,MEETING,Họp cổ đông,2020-05-18,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-06-05,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:20",,20,,2019
 2020-08-11,stockAlert,noticed,Nhắc nhở,2020-08-11,,,V/v: Chủ tịch HĐQT kiêm nhiệm Tổng giám đốc,,,,
+2020-11-13,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-12-01,2020-12-02,,"Trả cổ tức năm 2019, Tỷ lệ 100:20",,20,,2019

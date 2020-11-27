@@ -26,7 +26,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-05-15,investorRight,POLL,Lấy ý kiến cổ đông,2020-06-04,2020-06-15,2020-06-15,V/v Trình Đại hội đồng cổ đông phê chuẩn Quy chế Tổ chức và hoạt động của Ban Kiểm soát VIB,,,,
 2020-05-15,investorRight,MEETING,Họp cổ đông,2020-06-04,2020-06-30,2020-06-30,ĐHĐCĐ thường niên năm 2020,,,,
 2020-08-28,investorRight,POLL,Lấy ý kiến cổ đông,2020-09-15,,,V/v: Huỷ đăng ký cổ phiếu của VIB giao dịch trên hệ thống giao dịch UPCOM,,,,
-2020-10-12,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 184,898,279cp cho CĐHH",,20,,
+2020-10-12,schedEvent,schedIssue,Dự kiến phát hành,2020-11-26,2020-11-26,,"Dự kiến phát hành 184,898,279cp cho CĐHH",,20,,
 2020-10-21,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2020-10-30,,,Hủy ĐKGD trên UPCOM,,,,
 2020-11-04,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2020-11-10,,,Giá tham chiếu 32.300 đ/cp,,,,
 2020-11-10,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-11-10,,,Thời gian niêm yết dưới 06 tháng,,,,

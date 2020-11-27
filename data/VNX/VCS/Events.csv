@@ -58,3 +58,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-09-25,investorRight,KINDDIV,Cổ phiếu thưởng,2019-10-03,2019-10-04,,Tỷ lệ 100:2.04,,2.04,,
 2020-01-31,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-02-21,2020-03-31,2020-03-31,Trả cổ tức đợt 3/2019 (2000 đ/cp),2000,20,3,2019
 2020-05-15,investorRight,MEETING,Họp cổ đông,2020-02-21,2020-05-30,2020-05-30,ĐHĐCĐ thường niên năm 2020,,,,
+2020-11-13,investorRight,POLL,Lấy ý kiến cổ đông,2020-11-27,,,V/v: Chia cổ phiếu cho cổ đông hiện hữu từ nguồn cổ phiếu quỹ,,,,
+2020-11-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-12-04,2020-12-16,2020-12-16,Trả cổ tức đợt 1/2020 (2000 đ/cp),2000,20,1,2020

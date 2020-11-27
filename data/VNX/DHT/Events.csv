@@ -51,3 +51,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-04-13,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-04-24,2020-05-15,2020-05-15,Trả cổ tức đợt 2/2019 (1000 đ/cp),1000,10,2,2019
 2020-07-20,investorRight,MEETING,Họp cổ đông,2020-08-07,2020-08-26,2020-08-26,ĐHĐCĐ bất thường năm 2020,,,,
 2020-08-26,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 5,281,463cp cho CĐCL",,,,
+2020-11-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-12-03,2021-01-29,2021-01-29,Trả cổ tức năm 2020 (1000 đ/cp),1000,10,,2020

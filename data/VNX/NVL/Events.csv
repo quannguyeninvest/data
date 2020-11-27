@@ -57,3 +57,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-10-30,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-03-21,,,"Số lượng 273,980 cp",,,,
 2020-10-30,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-09-21,,,"Số lượng 13,200,000 cp",,,,
 2020-11-04,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 151,820cp cho CĐCL",,,,
+2020-11-16,schedEvent,schedIssue,Dự kiến phát hành,2020-11-18,2020-11-18,,"Dự kiến phát hành 379,550cp cho CĐCL",,,,

@@ -8,3 +8,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-29,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-06,2020-08-07,,"Trả cổ tức đợt 2/2019, Tỷ lệ 100:10",,10,2,2019
 2020-09-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-09,,,"Số lượng 1,949,995 cp",,,,
 2020-10-07,investorRight,POLL,Lấy ý kiến cổ đông,2020-10-26,,,V/v: Sửa đổi điều lệ công ty,,,,
+2020-11-23,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 15,000,000cp ra công chúng",,68.34,,

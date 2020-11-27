@@ -60,3 +60,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-05-03,stockAlert,control,Kiểm soát (Không hạn chế giao dịch),2019-05-08,,,Chứng khoán vị kiểm soát,,,,
 2019-05-09,investorRight,MEETING,Họp cổ đông,2019-05-23,2019-06-24,2019-06-24,ĐHĐCĐ thường niên năm 2019,,,,
 2020-04-16,investorRight,MEETING,Họp cổ đông,2020-03-19,2020-04-27,2020-04-27,ĐHĐCĐ thường niên năm 2020,,,,
+2020-11-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-12-01,,,"Số lượng 96,590,462 cp",,,,
