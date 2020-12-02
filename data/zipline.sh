@@ -3,16 +3,13 @@
 ## Daily Data
 
 mkdir -p daily
-# for file in VNX/*/Price.csv; do
-#   ticker=`echo $file | cut -d'/' -f 2`
-#   ln -sf ../$file daily/$ticker.csv
-# done
-
-for ticker in STB MSN FPT NVL TCB SAB PLX CTG GAS TCH HPG EIB HDB VPB MWG VJC BID ROS SBT MBB
-do
-  ln -sf ../VNX/$ticker/Price.csv daily/$ticker.csv
+for file in VNX/*/Price.csv; do
+  ticker=`echo $file | cut -d'/' -f 2`
+  python daily.py $file daily/$ticker.csv 2010-01-01
+  break
 done
-# ln -sf ../VN30F/vnindex/Price.csv daily/VNINDEX.csv
+
+python daily.py VN30F/vnindex/Price.csv daily/VNINDEX.csv 2010-01-01
 
 ## extension.py
 
