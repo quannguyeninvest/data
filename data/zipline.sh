@@ -6,7 +6,6 @@ mkdir -p daily
 for file in VNX/*/Price.csv; do
   ticker=`echo $file | cut -d'/' -f 2`
   python daily.py $file daily/$ticker.csv 2010-01-01
-  break
 done
 
 python daily.py VN30F/vnindex/Price.csv daily/VNINDEX.csv 2010-01-01
