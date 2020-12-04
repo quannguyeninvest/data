@@ -25,5 +25,4 @@ data = pd.read_csv(
     usecols=['date','open','high','low','close','volume']
 )[start_date:]
 
-if not data.empty:
-    index.join(data).fillna(method='ffill').fillna(method='bfill').dropna().to_csv(dest)
+index.join(data).fillna(method='ffill').dropna().to_csv(dest)
