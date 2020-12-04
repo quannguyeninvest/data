@@ -61,3 +61,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-10-07,stockAlert,noticed,Nhắc nhở,2019-10-04,,,Nhắc nhở thực hiện các quy định về quản trị công ty,,,,
 2019-11-05,stockAlert,noticed,Nhắc nhở,2019-11-04,,,Chậm CB giấy chứng nhận ĐKDN thay đổi lần thứ 30,,,,
 2020-02-04,stockAlert,noticed,Nhắc nhở,2020-02-04,,,Chậm nộp BCQT năm 2019,,,,
+2020-11-27,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-12-04,2020-12-18,2020-12-18,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019

@@ -1,17 +1,5 @@
 #!/bin/sh
 
-## Daily Data
-
-mkdir -p daily
-for file in VNX/*/Price.csv; do
-  ticker=`echo $file | cut -d'/' -f 2`
-  python daily.py $file daily/$ticker.csv 2010-01-01
-done
-
-python daily.py VN30F/vnindex/Price.csv daily/VNINDEX.csv 2010-01-01
-
-## extension.py
-
 mkdir -p ~/.zipline
 HSX=`cat hsx.py`
 echo "from zipline.data.bundles import register

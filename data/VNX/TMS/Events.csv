@@ -94,3 +94,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-04-21,investorRight,MEETING,Họp cổ đông,2020-05-14,2020-06-09,2020-06-09,ĐHĐCĐ thường niên năm 2020,,,,
 2020-11-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:15",,15,,2019
 2020-11-12,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (500 đ/cp),500,5,,2019
+2020-11-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-12-03,,,"Số lượng 7,335,751 cp",,,,
+2020-11-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-10-13,,,"Số lượng 376,000 cp",,,,

@@ -13,3 +13,7 @@
 [submodule "notebook"]
   path = notebook
   url = git@github.com:algo-stocks/notebook.git
+
+[submodule "zipline"]
+  path = zipline
+  url = git@github.com:algo-stocks/zipline.git

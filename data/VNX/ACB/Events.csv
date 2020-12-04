@@ -1,5 +1,5 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
-2006-10-26,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2006-11-21,,,,,,,
+2006-10-26,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2006-11-21,2020-12-01,,,,,,
 2007-01-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2007-01-10,2007-01-30,2007-01-30,Cổ tức quý 4/2006 (200 đ/cp),200,2,,2006
 2007-02-27,investorRight,MEETING,Họp cổ đông,2007-01-10,2007-03-09,2007-03-09,ĐHĐCĐ thường niên năm 2007,,,,
 2007-04-12,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2007-04-23,2007-04-25,,"Trả cổ tức năm 2006, Tỷ lệ 100:30",,30,,2006
@@ -54,3 +54,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-24,schedEvent,schedDiv,Dự kiến cổ tức,2020-08-25,2020-08-25,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:30",,30,,2019
 2020-08-10,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-08-20,2020-08-21,,"Trả cổ tức năm 2019, Tỷ lệ 100:30",,30,,2019
 2020-09-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-10-05,,,"Số lượng 498,821,183 cp",,,,
+2020-11-25,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-12-02,,,Hủy niêm yết trên HNX,,,,
+2020-11-27,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-11-27,,,Dự kiến chuyển sàn từ HNX sang HOSE,,,,
+2020-12-01,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2020-12-09,,,Giá tham chiếu: 26.400 đ/cp,,,,

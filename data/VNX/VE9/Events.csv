@@ -35,7 +35,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-03-01,investorRight,MEETING,Họp cổ đông,2019-03-27,2019-04-28,2019-04-28,ĐHĐCĐ thường niên năm 2019,,,,
 2019-06-07,investorRight,POLL,Lấy ý kiến cổ đông,2019-06-26,,,V/v Thông qua tờ trình của HĐQT về thông qua BCTC được lập cho năm 2018 đã được kiểm toán,,,,
 2019-08-20,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2019-08-22,,,Chứng khoán thuộc diện cảnh báo,,,,
-2020-04-07,stockAlert,alert,Cảnh báo,2020-04-09,,,LNST 2019 và LNST chưa pp tại 31/12/2019 âm,,,,
+2020-04-07,stockAlert,alert,Cảnh báo,2020-04-09,2020-11-30,,LNST 2019 và LNST chưa pp tại 31/12/2019 âm,,,,
 2020-04-25,investorRight,MEETING,Họp cổ đông,2020-03-24,2020-05-22,2020-05-22,ĐHĐCĐ thường niên năm 2020,,,,
 2020-10-30,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-11-09,,,Hủy niêm yết trên HNX,,,,
 2020-11-05,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-11-05,,,Dự kiến chuyển sàn từ HNX sang UPCOM,,,,
