@@ -1,5 +1,5 @@
 if (!require(googledrive)) install.packages("googledrive")
-if (!library("R.utils")) install.packages("R.utils")
+install.packages("R.utils")
 library(googledrive)
 library("R.utils")
 library(httr)
