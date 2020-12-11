@@ -35,4 +35,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-28,schedEvent,schedIssue,Dự kiến phát hành,2020-09-04,2020-09-04,,"Dự kiến phát hành 3,842,314cp cho CĐHH",,9.6,,
 2020-08-19,investorRight,KINDDIV,Cổ phiếu thưởng,2020-08-27,2020-08-28,,Tỷ lệ 100:9.6,,9.6,,
 2020-09-30,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-10-05,,,"Số lượng 3,841,118 cp",,,,
-2020-11-27,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 2,188,200cp ESOP",,4.99,,
+2020-11-27,schedEvent,schedIssue,Dự kiến phát hành,2020-12-02,2020-12-02,,"Dự kiến phát hành 2,188,200cp ESOP",,4.99,,

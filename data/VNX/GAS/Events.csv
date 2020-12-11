@@ -22,8 +22,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-03-02,investorRight,MEETING,Họp cổ đông,2016-03-17,2016-04-15,2016-04-15,ĐHCĐ thường niên năm 2016,,,,
 2016-03-03,stockAlert,noticed,Nhắc nhở,2016-03-02,,,Chậm CBTT thay đổi số lượng cổ phiếu có quyền biểu quyết,,,,
 2016-03-11,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2017-01-30,,,Số lượng 18.950.000 cp,,,,
-2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:30",,30,,2016
-2016-04-15,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2015, tỷ lệ 100:5",,5,,2015
 2016-09-19,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-09-30,2016-10-14,2016-10-14,Trả cổ tức đợt 3/2015 (500 đ/cp),500,5,3,2015
 2016-12-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2016-12-22,2017-01-13,2017-01-13,Trả cổ tức năm 2016 (2300 đ/cp),2300,23,,2016
 2017-03-09,investorRight,MEETING,Họp cổ đông,2017-03-23,2017-04-17,2017-04-17,ĐHĐCĐ thường niên năm 2017,,,,

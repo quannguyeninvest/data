@@ -19,8 +19,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-08-08,investorRight,POLL,Lấy ý kiến cổ đông,2018-08-27,,,V/v Thông qua việc tạm ứng cổ tức đợt 1 năm 2018 bằng tiền mặt với tỷ lệ tạm ứng 8%/cổ phần,,,,
 2018-10-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-10-12,2018-10-26,2018-10-26,Trả cổ tức đợt 1/2018 (800 đ/cp),800,8,1,2018
 2019-01-21,investorRight,MEETING,Họp cổ đông,2019-03-06,,,ĐHCĐ thường niên năm 2019,,,,
-2019-04-08,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu đợt 1/2019 (800 đ/cp),800,8,1,2019
 2019-04-08,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu đợt 2/2018 (1490 đ/cp),1490,14.9,2,2018
+2019-04-08,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức bằng cổ phiếu đợt 1/2019 (800 đ/cp),800,8,1,2019
 2019-05-06,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-16,2019-05-28,2019-05-28,Trả cổ tức đợt 2/2018 (1490 đ/cp),1490,14.9,2,2018
 2019-08-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-08-26,2019-09-10,2019-09-10,Trả cổ tức đợt 1/2019 (800 đ/cp),800,8,1,2019
 2020-03-27,investorRight,POLL,Lấy ý kiến cổ đông,2020-04-15,,,V/v Thông qua việc tạm ứng cổ tức bằng tiền mặt đợt 2 năm 2019 với tỷ lệ tạm ứng 15%/cổ phiếu (01 cổ phiếu nhận được 1.500 đồng),,,,

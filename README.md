@@ -17,9 +17,9 @@ npm run download -- --exchange=$EXCHANGE --type=BalanceSheetQuarter,IncomeStatem
 
 # SSL: NODE_TLS_REJECT_UNAUTHORIZED=0
 # Prices
-npm run download -- --exchange=VNX --type=Price,Events,Report
+NODE_TLS_REJECT_UNAUTHORIZED=0 npm run download -- --exchange=VNX --type=Price,Events,Report
 npm run download -- --exchange=VN30F --type=Prices
-npm run download -- --exchange=VN30F --type=Price --symbols=gold,E1VFVN30
+NODE_TLS_REJECT_UNAUTHORIZED=0 npm run download -- --exchange=VN30F --type=Price --symbols=gold,E1VFVN30
 # Zorro
 curl https://bgdatafeed.vps.com.vn/getlistckindex/hose --output broker/Paper/hose.json
 node_modules/.bin/babel-node --presets es2015 src/data/AssetsFix.js

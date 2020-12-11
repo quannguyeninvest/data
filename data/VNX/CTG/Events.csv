@@ -45,3 +45,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-03-11,investorRight,MEETING,Họp cổ đông,2020-03-30,2020-05-23,2020-05-23,ĐHĐCĐ thường niên năm 2020,,,,
 2020-10-16,investorRight,POLL,Lấy ý kiến cổ đông,2020-11-04,,,V/v: Phát hành cổ phiếu tăng vốn điều lệ,,,,
 2020-11-25,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:28.7899",,28.79,,2019
+2020-12-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-12-17,2021-01-21,2021-01-21,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019

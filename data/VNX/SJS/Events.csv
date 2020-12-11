@@ -51,10 +51,12 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 1/2017 (500 đ/cp),500,5,1,2017
 2019-04-19,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 2/2017 (500 đ/cp),500,5,2,2017
 2019-04-23,stockAlert,noticed,Nhắc nhở,2019-04-22,,,Chậm trả cổ tức,,,,
-2019-09-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-12-28,2020-12-31,2020-12-31,Trả cổ tức năm 2016 (1000 đ/cp),1000,10,,2016
 2019-09-24,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2017-12-28,2020-12-31,2020-12-31,Thay đổi ngày chi trả cổ tức năm 2016 từ ngày 30/9/2019 sang ngày 31/12/2020,1000,10,,2016
-2019-09-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-23,2020-12-31,2020-12-31,Trả cổ tức đợt 2/2017 (500 đ/cp),500,5,2,2017
-2019-09-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-23,2020-12-31,2020-12-31,Trả cổ tức đợt 1/2017 (500 đ/cp),500,5,1,2017
 2019-09-24,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2019-05-23,2020-12-31,2020-12-31,Thay đổi ngày chi trả cổ tức năm 2017 đợt 1 từ ngày 30/9/2019 sang ngày 31/12/2020,500,5,1,2017
 2019-09-24,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2019-05-23,2020-12-31,2020-12-31,Thay đổi ngày chi trả cổ tức năm 2017 đợt 2 từ ngày 31/12/2019 sang ngày 31/12/2020,500,5,2,2017
 2020-05-13,investorRight,MEETING,Họp cổ đông,2020-05-25,,,ĐHĐCĐ thường niên năm 2020,,,,
+2020-12-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-12-28,2021-12-31,2021-12-31,Trả cổ tức năm 2016 (1000 đ/cp),1000,10,,2016
+2020-12-10,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2017-12-28,2021-12-31,2021-12-31,Thay đổi ngày thanh toán cổ tức năm 2016 từ 31/12/2020 sang 31/12/2021,1000,10,,2016
+2020-12-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-23,2021-12-31,2021-12-31,Trả cổ tức đợt 2/2017 (500 đ/cp),500,5,2,2017
+2020-12-10,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-23,2021-12-31,2021-12-31,Trả cổ tức đợt 1/2017 (500 đ/cp),500,5,1,2017
+2020-12-10,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2019-05-23,2021-12-31,2021-12-31,Thay đổi ngày thanh toán cổ tức năm 2017 từ 31/12/2020 sang 31/12/2021,500,5,,2017
