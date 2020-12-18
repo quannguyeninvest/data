@@ -9,3 +9,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-05-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-06-04,2020-06-25,2020-06-25,Trả cổ tức năm 2019 (750 đ/cp),750,7.5,,2019
 2020-11-12,investorRight,MEETING,Họp cổ đông,2020-11-30,2020-12-23,2020-12-23,ĐHĐCĐ bất thường năm 2020,,,,
 2020-12-01,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2020-12-17,,,Hủy ĐKGD trên UPCOM,,,,
+2020-12-16,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-12-16,,,Dự kiến chuyển sàn từ UPCOM sang HNX,,,,

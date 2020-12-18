@@ -75,4 +75,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-31,investorRight,KINDDIV,Cổ phiếu thưởng,2020-09-29,2020-09-30,,Tỷ lệ 100:20,,20,,
 2020-07-31,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-09-29,2020-10-15,2020-10-15,Trả cổ tức đợt 1/2020 (2000 đ/cp),2000,20,1,2020
 2020-10-30,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-11-10,,,"Số lượng 348,267,652 cp",,,,
-2020-12-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2021-01-04,2021-02-26,2021-02-26,Trả cổ tức đợt 2/2020 (1000 đ/cp),1000,10,2,2020
+2020-12-07,investorRight,DIVIDEND,Cổ tức bằng tiền,2021-01-05,2021-02-26,2021-02-26,Trả cổ tức đợt 2/2020 (1000 đ/cp),1000,10,2,2020

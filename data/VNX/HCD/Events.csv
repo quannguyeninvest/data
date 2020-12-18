@@ -22,5 +22,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-11-18,stockAlert,noticed,Nhắc nhở,2019-11-15,,,Chậm thực hiện trả cổ tức năm 2017 bằng tiền,,,,
 2020-02-04,stockAlert,noticed,Nhắc nhở,2020-02-04,,,Chậm nộp BCQT năm 2019,,,,
 2020-03-02,investorRight,MEETING,Họp cổ đông,2020-03-23,2020-04-25,2020-04-25,ĐHĐCĐ thường niên năm 2020,,,,
-2020-04-15,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-09-14,2020-12-18,2020-12-18,Trả cổ tức đợt 2/2017 (500 đ/cp),500,5,2,2017
 2020-04-15,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-09-14,2020-12-18,2020-12-18,Thay đổi ngày chi trả cổ tức đợt 2 năm 2017 từ ngày 15/4/2020 sang ngày 18/12/2020,500,5,2,2017
+2020-12-11,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-09-14,2021-09-30,2021-09-30,Trả cổ tức đợt 2/2017 (500 đ/cp),500,5,2,2017
+2020-12-11,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2018-09-14,2021-09-30,2021-09-30,Thay đổi ngày thanh toán cổ tức đợt 2/2017 từ 18/12/2020 sang 30/09/2021,500,5,2,2017

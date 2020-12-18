@@ -25,7 +25,7 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-02-22,stockAlert,halt,Kiểm soát đặc biệt (Hạn chế GD),2019-02-21,2019-03-06,,"LNST năm 2017, 2018 âm",,,,
 2019-03-19,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2012-03-30,2020-03-30,2020-03-30,Thay đổi ngày thanh toán cổ tức năm 2010 từ ngày 29/03/2019 sang ngày 30/03/2020,1500,15,,2010
 2019-09-30,investorRight,MEETING,Họp cổ đông,2019-10-17,2019-11-04,2019-11-04,Họp ĐHCĐ bất thường năm 2019,,,,
-2019-11-04,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 144,000,000cp cho CĐCL",,,,
+2019-11-04,schedEvent,schedIssue,Dự kiến phát hành,2020-12-11,2020-12-11,,"Dự kiến phát hành 144,000,000cp cho CĐCL",,,,
 2019-12-10,investorRight,POLL,Lấy ý kiến cổ đông,2019-12-30,,,"v/v thay đổi đơn vị kiểm toán BCTC năm 2019 cho công ty  
 ",,,,
 2020-02-20,investorRight,MEETING,Họp cổ đông,2020-03-12,2020-03-30,2020-03-30,ĐHĐCĐ thường niên năm 2020,,,,
