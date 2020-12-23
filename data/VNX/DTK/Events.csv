@@ -10,3 +10,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-11-12,investorRight,MEETING,Họp cổ đông,2020-11-30,2020-12-23,2020-12-23,ĐHĐCĐ bất thường năm 2020,,,,
 2020-12-01,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2020-12-17,,,Hủy ĐKGD trên UPCOM,,,,
 2020-12-16,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-12-16,,,Dự kiến chuyển sàn từ UPCOM sang HNX,,,,
+2020-12-18,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2020-12-25,,,Giá tham chiếu: 10.800 đ/cp,,,,
