@@ -21,13 +21,12 @@ NODE_TLS_REJECT_UNAUTHORIZED=0 npm run download -- --exchange=VNX --type=Price,E
 npm run download -- --exchange=VN30F --type=Prices
 NODE_TLS_REJECT_UNAUTHORIZED=0 npm run download -- --exchange=VN30F --type=Price --symbols=gold,E1VFVN30
 # Zorro
-curl https://bgdatafeed.vps.com.vn/getlistckindex/hose --output broker/Paper/hose.json
 node_modules/.bin/babel-node --presets es2015 src/data/AssetsFix.js
 # VNX
 npm run portfolio
 node_modules/.bin/babel-node --presets es2015 src/data/AssetsVNX.js
 # VN30
-https://bgdatafeed.vps.com.vn/listvn30
+https://bgapidatafeed.vps.com.vn/listvn30
 # E1VFVN30
 cd broker && node download/E1VFVN30.js && cd ..
 ```
