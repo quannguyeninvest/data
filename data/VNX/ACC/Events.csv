@@ -30,6 +30,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-07-18,investorRight,POLL,Lấy ý kiến cổ đông,2019-08-02,2019-08-30,2019-08-30,"Miễn nhiệm và bầu bổ sung thành viên HĐQT, BKS; Bổ sung ngành nghề kinh doanh; Quyết định phát triển kinh doanh bất động sản trong thời gian tới",,,,
 2019-10-23,investorRight,POLL,Lấy ý kiến cổ đông,2019-11-14,,,"V/v: Đầu tư tài sản, dự án có giá trị bằng hoặc lớn hơn 35% tổng giá trị tài sản của công ty",,,,
 2020-05-05,investorRight,MEETING,Họp cổ đông,2020-05-21,,,ĐHĐCĐ thường niên năm 2020,,,,
-2020-08-28,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 20,000,000cp cho CĐHH",,200,,
+2020-08-28,schedEvent,schedIssue,Dự kiến phát hành,2020-12-22,2020-12-22,,"Dự kiến phát hành 20,000,000cp cho CĐHH",,200,,
 2020-11-05,investorRight,ISSUE,Phát hành thêm,2020-11-16,2020-12-14,,"Phát hành 20,000,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:200",,200,,
 2020-11-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-12-01,2020-12-25,2020-12-25,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019

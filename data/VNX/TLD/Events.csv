@@ -19,3 +19,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-06-11,investorRight,ISSUE,Phát hành thêm,2020-06-19,2020-09-07,,"Phát hành 9,359,894 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:50",,50,,
 2020-10-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-11-03,,,"Số lượng 7,134,289 cp",,,,
 2020-10-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-09-13,,,"Số lượng 12,200,000 cp",,,,
+2020-12-18,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-12-28,2020-12-29,,"Trả cổ tức năm 2018, Tỷ lệ 100:5",,5,,2018

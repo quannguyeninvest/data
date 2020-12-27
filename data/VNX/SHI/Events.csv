@@ -63,6 +63,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-05-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-06-06,2019-10-18,2019-10-18,Trả cổ tức đợt 2/2018 (500 đ/cp),500,5,2,2018
 2019-07-05,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-07-18,,,"Số lượng 1,700,844 cp",,,,
 2020-06-11,investorRight,MEETING,Họp cổ đông,2020-05-25,2020-06-18,2020-06-18,ĐHĐCĐ thường niên năm 2020,,,,
-2020-10-22,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-10-29,2020-10-30,,"Trả cổ tức năm 2019, Tỷ lệ 100:5",,5,,2019
 2020-10-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-10-29,2020-12-11,2020-12-11,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019
+2020-10-22,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-10-29,2020-10-30,,"Trả cổ tức năm 2019, Tỷ lệ 100:5",,5,,2019
 2020-12-08,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-12-21,,,"Số lượng 4,337,746 cp",,,,

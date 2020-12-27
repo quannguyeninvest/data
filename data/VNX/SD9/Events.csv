@@ -33,8 +33,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2018-03-19,investorRight,MEETING,Họp cổ đông,2018-04-04,2018-04-26,2018-04-26,ĐHĐCĐ thường niên năm 2018,,,,
 2018-12-25,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-09-19,2019-03-29,2019-03-29,Thay đổi ngày trả cổ tức năm 2017 từ ngày 26/12/2018 sang ngày 29/03/2019,1000,10,,2017
 2019-03-07,investorRight,MEETING,Họp cổ đông,2019-04-01,2019-04-24,2019-04-24,ĐHĐCĐ thường niên năm 2019,,,,
-2019-03-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-09-19,2020-05-22,2020-05-22,Trả cổ tức năm 2017 (1000 đ/cp),1000,10,,2017
+2019-03-29,investorRight,DIVIDEND,Cổ tức bằng tiền,2018-09-19,2021-06-30,2021-06-30,Trả cổ tức năm 2017 (1000 đ/cp),1000,10,,2017
 2019-03-29,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-09-19,2019-09-27,2019-09-27,Thay đổi ngày trả cổ tức năm 2017 từ ngày 29/3/2019 sang ngày 27/9/2019,1000,10,,2017
 2019-09-26,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2018-09-19,2020-05-20,2020-05-20,Thay đổi ngày trả cổ tức năm 2017 từ ngày 27/09/2019 sang ngày 20/05/2020,1000,10,,2017
 2020-04-24,investorRight,MEETING,Họp cổ đông,2020-04-06,2020-05-22,2020-05-22,ĐHĐCĐ thường niên năm 2020,,,,
 2020-05-21,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2018-09-19,2020-12-22,2020-12-22,Thay đổi thời gian trả cổ tức năm 2017(1000đ/1cp) từ 22/05/2020 sang 22/12/2020,1000,10,,2017
+2020-12-23,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2018-09-19,2021-06-30,2021-06-30,Thay đổi ngày thanh toán cổ tức năm 2017 từ 22/12/2020 sang 30/06/2021,1000,10,,2017

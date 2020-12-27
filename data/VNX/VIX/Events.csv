@@ -1,5 +1,5 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
-2009-12-25,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2009-12-29,,,Ngày GD đầu tiên trên HNX,,,,
+2009-12-25,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2009-12-29,2020-12-28,,Ngày GD đầu tiên trên HNX,,,,
 2010-03-16,investorRight,MEETING,Họp cổ đông,2010-03-22,2010-04-18,2010-04-18,ĐHCĐ thường niên 2010,,,,
 2011-03-09,investorRight,MEETING,Họp cổ đông,2011-03-15,,,ĐHCĐ thường niên 2011,,,,
 2012-02-14,investorRight,MEETING,Họp cổ đông,2012-02-20,2012-04-07,2012-04-07,Đại hội đồng cổ đông thường niên năm 2012 (Thay đổi thời gian tổ chức),,,,
@@ -40,3 +40,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-06-26,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-07-09,2020-07-10,,"Trả cổ tức năm 2019, Tỷ lệ 100:10",,10,,2019
 2020-08-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-08-28,,,"Số lượng 11,610,337 cp",,,,
 2020-08-27,investorRight,MEETING,Họp cổ đông,2020-09-14,,,ĐHĐCĐ bất thường năm 2020,,,,
+2020-12-24,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-12-29,,,Hủy niêm yết trên HNX,,,,
