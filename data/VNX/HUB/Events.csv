@@ -11,4 +11,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-11-05,investorRight,KINDDIV,Cổ phiếu thưởng,2020-11-13,2020-11-16,,Tỷ lệ 100:25,,25,,
 2020-11-05,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-11-13,2020-12-08,2020-12-08,Trả cổ tức năm 2019 (1500 đ/cp),1500,15,,2019
 2020-12-17,stockAlert,noticed,Nhắc nhở,2020-12-17,,,Chậm nộp hồ sơ thay đổi đăng ký niêm yết,,,,
-2020-12-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 3,811,316 cp",,,,
+2020-12-23,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-01-05,,,"Số lượng 3,811,316 cp",,,,

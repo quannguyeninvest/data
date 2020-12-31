@@ -50,4 +50,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-03-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-04-14,2021-03-31,2021-03-31,Trả cổ tức đợt 2/2018 (200 đ/cp),200,2,2,2018
 2020-03-12,investorRight,MEETING,Họp cổ đông,2020-04-14,2020-05-20,2020-05-20,ĐHĐCĐ thường niên năm 2020,,,,
 2020-03-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-04-14,2020-05-15,2020-05-15,Trả cổ tức đợt 1/2018 (200 đ/cp),200,2,1,2018
+2020-08-21,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-04-14,2021-03-31,2021-03-31,Thay đổi ngày thanh toán cổ tức đợt 2/2018 từ 28/12/2020 sang 31/03/2021,200,2,2,2018
 2020-08-21,investorRight,ADPAYDATE,Thay đổi ngày trả cổ tức,2020-04-14,2020-12-28,2020-12-28,Thay đổi ngày thanh toán cổ tức đợt 2/2018 từ 28/08/2020 sang 28/12/2020,200,2,2,2018

@@ -13,3 +13,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-09-17,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-09-28,2020-10-19,2020-10-19,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019
 2020-10-16,investorRight,POLL,Lấy ý kiến cổ đông,2020-11-03,,,V/v: Thông qua phương án phát hành cổ phiếu tăng vốn điều lệ từ nguồn vốn chủ sở hữu.,,,,
 2020-11-25,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 15,999,978cp cho CĐHH",,20,,
+2020-12-22,investorRight,KINDDIV,Cổ phiếu thưởng,2020-12-29,2020-12-30,,Tỷ lệ 100:20,,20,,

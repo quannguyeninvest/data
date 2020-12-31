@@ -20,4 +20,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-12-30,investorRight,POLL,Lấy ý kiến cổ đông,2020-01-15,,,"V/v đề cử, ứng cử thành viên HĐQT, BKS nhiệm kỳ 2020-2025",,,,
 2020-03-30,investorRight,POLL,Lấy ý kiến cổ đông,2020-04-17,,,V/v: Mua cổ phiếu quỹ năm 2020,,,,
 2020-04-27,investorRight,MEETING,Họp cổ đông,2020-05-13,,,ĐHĐCĐ thường niên năm 2020,,,,
-2020-11-23,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 17,000,000cp ESOP",,0.7,,
+2020-11-23,schedEvent,schedIssue,Dự kiến phát hành,2020-12-28,2020-12-28,,"Dự kiến phát hành 17,000,000cp ESOP",,0.7,,
