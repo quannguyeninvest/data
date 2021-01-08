@@ -41,3 +41,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-08-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-08-28,,,"Số lượng 11,610,337 cp",,,,
 2020-08-27,investorRight,MEETING,Họp cổ đông,2020-09-14,,,ĐHĐCĐ bất thường năm 2020,,,,
 2020-12-24,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-12-29,,,Hủy niêm yết trên HNX,,,,
+2020-12-29,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-12-29,,,Dự kiến chuyển sàn từ HNX sang HOSE,,,,
+2020-12-30,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2021-01-08,,,Giá tham chiếu: 20.300 đ/cp,,,,

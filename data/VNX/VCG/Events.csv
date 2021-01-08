@@ -38,3 +38,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-05-29,investorRight,MEETING,Họp cổ đông,2020-06-11,2020-06-29,2020-06-29,ĐHĐCĐ thường niên năm 2020,,,,
 2020-12-17,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-12-22,,,Hủy niêm yết trên HNX,,,,
 2020-12-21,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2020-12-29,,,Giá tham chiếu: 41.800 đ/cp,,,,
+2020-12-31,investorRight,DIVIDEND,Cổ tức bằng tiền,2021-01-11,2021-02-02,2021-02-02,Trả cổ tức năm 2019 (600 đ/cp),600,6,,2019
+2020-12-31,investorRight,DIVIDEND,Cổ tức bằng tiền,2021-01-11,2021-02-02,2021-02-02,Trả cổ tức năm 2020 (600 đ/cp),600,6,,2020

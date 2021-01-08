@@ -24,4 +24,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-09,investorRight,MEETING,Họp cổ đông,2020-07-27,2020-08-13,2020-08-13,ĐHĐCĐ bất thường năm 2020 lần 2,,,,
 2020-08-21,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-09-07,2020-09-18,2020-09-18,Trả cổ tức đợt 2/2019 (500 đ/cp),500,5,2,2019
 2020-10-23,investorRight,ISSUE,Phát hành thêm,2020-11-02,2020-11-30,,"Phát hành 2,000,000 cp cho CĐHH, giá 45000 đ/cp, tỷ lệ 100:5.807",,5.81,,
-2020-12-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 2,000,000 cp",,,,
+2020-12-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-01-06,,,"Số lượng 1,978,128 cp",,,,
+2020-12-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-12-06,,,"Số lượng 21,872 cp",,,,

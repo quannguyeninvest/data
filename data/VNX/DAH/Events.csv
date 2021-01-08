@@ -2,8 +2,8 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2016-09-30,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2016-10-10,,,Giá tham chiếu 11.500đ/cp,,,,
 2016-10-10,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2016-10-10,2017-07-05,,Thời gian niêm yết dưới 06 tháng,,,,
 2017-04-18,investorRight,MEETING,Họp cổ đông,2017-03-24,2017-04-28,2017-04-28,ĐHĐCĐ thường niên năm 2017,,,,
-2017-04-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:7",,7,,2017
 2017-04-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2016, tỷ lệ 100:8",,8,,2016
+2017-04-21,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:7",,7,,2017
 2017-10-20,investorRight,DIVIDEND,Cổ tức bằng tiền,2017-10-30,2017-12-15,2017-12-15,Trả cổ tức năm 2016 (800 đ/cp),800,8,,2016
 2018-04-09,investorRight,MEETING,Họp cổ đông,2018-03-27,2018-04-28,2018-04-28,ĐHĐCĐ thường niên năm 2018,,,,
 2018-08-17,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-08-17,2019-04-05,,BCTCBN 2018 không được chấp nhận toàn phần của tổ chức KT,,,,

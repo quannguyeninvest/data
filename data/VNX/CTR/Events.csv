@@ -20,3 +20,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-07-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-08-03,2020-08-18,2020-08-18,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019
 2020-09-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-28,,,"Số lượng 9,710,616 cp",,,,
 2020-10-27,schedEvent,schedIssue,Dự kiến phát hành,2020-11-16,2020-11-16,,"Dự kiến phát hành 1,408,163cp ESOP",,2,,
+2021-01-04,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-01-11,,,"Số lượng 1,373,703 cp",,,,

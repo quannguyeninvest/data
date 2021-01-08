@@ -1,5 +1,5 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
-2010-07-01,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2010-07-13,,,Ngày giao dịch đầu tiên trên sàn HNX,,,,
+2010-07-01,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2010-07-13,2021-01-12,,Ngày giao dịch đầu tiên trên sàn HNX,,,,
 2011-01-04,investorRight,MEETING,Họp cổ đông,2011-01-13,,,ĐHCĐ thường niên 2011,,,,
 2011-03-17,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2011-03-22,2011-03-24,,"Trả cổ tức năm 2010, Tỷ lệ 100:50",,50,,2010
 2012-02-22,investorRight,MEETING,Họp cổ đông,2012-02-29,2012-03-29,2012-03-29,Đại hội đồng cổ đông thường niên năm 2012,,,,
@@ -37,3 +37,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-09-09,schedEvent,schedIssue,Dự kiến phát hành,2020-09-21,2020-09-21,,"Dự kiến phát hành 400,000cp ESOP",,1.68,,
 2020-09-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-10-06,,,"Số lượng 6,285,316 cp",,,,
 2020-11-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-11-16,,,"Số lượng 400,000 cp",,,,
+2021-01-07,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2021-01-13,,,Hủy niêm yết trên HNX,,,,
