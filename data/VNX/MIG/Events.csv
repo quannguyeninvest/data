@@ -1,5 +1,5 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
-2017-04-25,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-05-05,,,Giá tham chiếu 10.000 đ/cp,,,,
+2017-04-25,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2017-05-05,2021-01-12,,Giá tham chiếu 10.000 đ/cp,,,,
 2018-04-26,schedEvent,schedDiv,Dự kiến cổ tức,2018-11-13,2018-11-13,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2017, tỷ lệ 100:5",,5,,2017
 2018-10-30,investorRight,POLL,Lấy ý kiến cổ đông,2018-11-13,,,V/v Xin ý kiến các nội dung thuộc thẩm quyền của Đại hội đồng cổ đông,,,,
 2018-11-02,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2018-11-13,2018-11-14,,"Trả cổ tức năm 2017, Tỷ lệ 100:5",,5,,2017
@@ -12,3 +12,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-04-22,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-08,2019-05-20,2019-05-20,Trả cổ tức năm 2018 (800đ/cp),800,8,,2018
 2020-03-27,investorRight,MEETING,Họp cổ đông,2020-04-14,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-06-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-06-12,2020-06-26,2020-06-26,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019
+2021-01-07,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2021-01-13,,,Hủy niêm yết trên UPCOM,,,,
+2021-01-12,schedEvent,schedExchange,Dự kiến chuyển sàn,2021-01-12,,,Dự kiến chuyển sàn từ UPCOM sang HOSE,,,,
+2021-01-13,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2021-01-21,,,Giá tham chiếu: 15.550 đ/cp,,,,

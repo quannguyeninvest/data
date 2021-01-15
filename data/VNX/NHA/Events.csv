@@ -38,3 +38,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-09-29,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-10-06,,,"Số lượng 6,285,316 cp",,,,
 2020-11-06,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-11-16,,,"Số lượng 400,000 cp",,,,
 2021-01-07,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2021-01-13,,,Hủy niêm yết trên HNX,,,,
+2021-01-13,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2021-01-21,,,Giá tham chiếu: 20.600 đ/cp,,,,

@@ -57,3 +57,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-10-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-11-14,,,"Số lượng 7,468,277 cp",,,,
 2019-12-24,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 93,492,650cp cho CĐHH",,36.45,,
 2020-05-07,investorRight,MEETING,Họp cổ đông,2020-05-26,2020-06-25,2020-06-25,ĐHĐCĐ thường niên năm 2020,,,,
+2021-01-07,investorRight,ISSUE,Phát hành thêm,2021-01-15,2021-03-01,,"Phát hành 93,492,650 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:36.45",,36.45,,
