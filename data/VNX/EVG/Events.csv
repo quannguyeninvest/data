@@ -12,3 +12,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-04-23,investorRight,MEETING,Họp cổ đông,2020-05-11,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-08-11,stockAlert,noticed,Nhắc nhở,2020-08-11,,,V/v: Chủ tịch HĐQT kiêm nhiệm Tổng giám đốc,,,,
 2020-11-25,investorRight,POLL,Lấy ý kiến cổ đông,2020-12-10,,,V/v: Các nội dung thuộc thẩm quyền của Đại hội đồng cổ đông,,,,
+2021-01-04,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 45,000,000cp ra công chúng",,75,,
+2021-01-08,investorRight,ISSUE,Phát hành thêm,2021-01-15,2021-02-22,,"Phát hành 45,000,000 cp ra công chúng, giá 10000 đ/cp, tỷ lệ 100:75",,75,,

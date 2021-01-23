@@ -14,3 +14,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-10-16,investorRight,POLL,Lấy ý kiến cổ đông,2020-11-03,,,V/v: Thông qua phương án phát hành cổ phiếu tăng vốn điều lệ từ nguồn vốn chủ sở hữu.,,,,
 2020-11-25,schedEvent,schedIssue,Dự kiến phát hành,2021-01-07,2021-01-07,,"Dự kiến phát hành 15,999,978cp cho CĐHH",,20,,
 2020-12-22,investorRight,KINDDIV,Cổ phiếu thưởng,2020-12-29,2020-12-30,,Tỷ lệ 100:20,,20,,
+2021-01-15,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 15,999,908cp cho CĐHH",,,,
+2021-01-21,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2021-01-21,,,Xử phạt vi phạm hành chính đối với hành vi trốn thuế,,,,

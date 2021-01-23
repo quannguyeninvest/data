@@ -15,3 +15,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2021-01-07,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2021-01-13,,,Hủy niêm yết trên UPCOM,,,,
 2021-01-12,schedEvent,schedExchange,Dự kiến chuyển sàn,2021-01-12,,,Dự kiến chuyển sàn từ UPCOM sang HOSE,,,,
 2021-01-13,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2021-01-21,,,Giá tham chiếu: 15.550 đ/cp,,,,
+2021-01-21,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2021-01-21,,,Thời gian niêm yết dưới 06 tháng,,,,

@@ -33,3 +33,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-11-12,investorRight,KINDDIV,Cổ phiếu thưởng,2020-11-19,2020-11-20,,Tỷ lệ 100:20,,20,,
 2020-12-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 19,563,232 cp",,,,
 2020-12-24,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-12-31,,,"Số lượng 165,333,225 cp",,,,
+2021-01-15,investorRight,POLL,Lấy ý kiến cổ đông,2021-02-16,2021-03-22,2021-03-22,V/v: thông qua Điều lệ và Quy chế nội bộ về quản trị công ty,,,,
+2021-01-15,investorRight,MEETING,Họp cổ đông,2021-02-16,2021-03-24,2021-03-24,ĐHĐCĐ thường niên năm 2021,,,,

@@ -37,9 +37,9 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-11-21,investorRight,ADPAYDATE,Thay đổi thời gian trả cổ tức,2019-08-09,2020-01-15,2020-01-15,Thay đổi ngày trả cổ tức năm 2018 từ ngày 25/11/2019 sang ngày 15/01/2020,2000,20,,2018
 2020-05-15,investorRight,MEETING,Họp cổ đông,2020-05-27,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức năm 2019 (2000 đ/cp),2000,20,,2019
-2020-07-03,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:40",,40,,2019
+2020-07-03,schedEvent,schedDiv,Dự kiến cổ tức,2021-01-20,2021-01-20,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2019, tỷ lệ 100:40",,40,,2019
 2020-09-23,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 37,962,045cp cho CĐHH",,100,,
 2020-11-25,investorRight,MEETING,Họp cổ đông,2020-12-08,,,ĐHĐCĐ bất thường năm 2020,,,,
+2020-12-23,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2021-01-11,2021-01-12,,"Trả cổ tức năm 2019, Tỷ lệ 100:40",,40,,2019
 2020-12-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2021-01-11,2021-06-24,2021-06-24,Trả cổ tức đợt 2/2019 (1000 đ/cp),1000,10,2,2019
 2020-12-23,investorRight,DIVIDEND,Cổ tức bằng tiền,2021-01-11,2021-05-20,2021-05-20,Trả cổ tức đợt 1/2019 (1000 đ/cp),1000,10,1,2019
-2020-12-23,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2021-01-11,2021-01-12,,"Trả cổ tức năm 2019, Tỷ lệ 100:40",,40,,2019

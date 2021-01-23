@@ -8,3 +8,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-06-09,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-06-29,2020-07-08,2020-07-08,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019
 2020-07-01,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-07-24,2020-07-27,,"Trả cổ tức đợt 2/2019, Tỷ lệ 100:5",,5,2,2019
 2020-08-31,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-10,,,"Số lượng 2,499,781 cp",,,,
+2021-01-07,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 30,000,000cp ra công chúng",,,,
+2021-01-12,investorRight,ISSUE,Phát hành thêm,2021-01-27,2021-03-22,,"Phát hành 30,000,000 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:57.143",,57.14,,

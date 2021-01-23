@@ -26,3 +26,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-08-11,investorRight,POLL,Lấy ý kiến cổ đông,2020-08-28,,,V/v: Thực hiện bảo lãnh phát hành trái phiếu của công ty con,,,,
 2020-09-25,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-10-15,,,"Số lượng 28,000,000 cp",,,,
 2020-09-30,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 68,002,880cp ra công chúng",,50,,
+2020-12-31,investorRight,ISSUE,Phát hành thêm,2021-01-21,2021-03-05,,"Phát hành 68,002,880 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:50",,50,,
