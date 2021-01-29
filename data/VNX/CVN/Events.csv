@@ -30,3 +30,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-11-20,investorRight,POLL,Lấy ý kiến cổ đông,2020-12-07,,,V/v: Bổ sung một số ngành nghề kinh doanh của Công ty,,,,
 2020-11-25,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-12-07,2020-12-08,,"Trả cổ tức năm 2019, Tỷ lệ 100:40",,40,,2019
 2020-11-25,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-12-07,2020-12-18,2020-12-18,Trả cổ tức năm 2019 (2000 đ/cp),2000,20,,2019
+2021-01-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-01-29,,,"Số lượng 3,299,994 cp",,,,

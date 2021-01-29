@@ -30,5 +30,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-08-25,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-08,,,"Số lượng 3,545,203 cp",,,,
 2020-12-03,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-12-10,2020-12-23,2020-12-23,Trả cổ tức đợt 1/2020 (1000 đ/cp),1000,10,1,2020
 2020-12-30,investorRight,MEETING,Họp cổ đông,2021-01-20,2021-02-23,2021-02-23,ĐHĐCĐ thường niên năm 2021,,,,
-2021-01-11,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 2,605,990 cp",,,,
 2021-01-12,investorRight,ISSUE,Phát hành thêm,2021-01-20,2021-03-04,,"Phát hành 16,417,999 cp cho CĐHH, giá 10000 đ/cp, tỷ lệ 100:30",,30,,
+2021-01-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-10-29,,,"Số lượng 1,302,995 cp",,,,
+2021-01-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2022-04-29,,,"Số lượng 1,302,995 cp",,,,

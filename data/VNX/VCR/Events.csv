@@ -35,3 +35,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-04-10,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-05-07,,,Dự kiến chuyển sàn từ HNX sang UPCOM,,,,
 2020-05-05,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2020-05-12,,,Giá tham chiếu: 8.200 đ/cp,,,,
 2021-01-18,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-01-22,,,"Số lượng 144,000,000 cp",,,,
+2021-01-26,investorRight,MEETING,Họp cổ đông,2021-02-18,2021-03-22,2021-03-22,ĐHĐCĐ thường niên năm 2021,,,,

@@ -62,3 +62,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-09-17,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 1/2020 (2840 đ/cp),2840,28.4,1,2020
 2020-09-18,stockAlert,noticed,Nhắc nhở,2020-09-18,,,Chậm công bố thông tin bất thường,,,,
 2020-09-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-10-07,2020-10-23,2020-10-23,Trả cổ tức đợt 1/2020 (2840 đ/cp),2840,28.4,1,2020
+2021-01-20,schedEvent,schedDiv,Dự kiến cổ tức,,,,Dự kiến trả cổ tức đợt 2/2020 (2000 đ/cp),2000,20,2,2020
+2021-01-26,investorRight,DIVIDEND,Cổ tức bằng tiền,2021-02-04,2021-02-25,2021-02-25,Trả cổ tức đợt 2/2020 (2000 đ/cp),2000,20,2,2020

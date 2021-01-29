@@ -57,3 +57,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-11-25,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2020-12-02,,,Hủy niêm yết trên HNX,,,,
 2020-11-27,schedEvent,schedExchange,Dự kiến chuyển sàn,2020-11-27,,,Dự kiến chuyển sàn từ HNX sang HOSE,,,,
 2020-12-01,stockAlert,listedHose,Ngày giao dịch đầu tiên trên HOSE,2020-12-09,,,Giá tham chiếu: 26.400 đ/cp,,,,
+2021-01-25,investorRight,MEETING,Họp cổ đông,2021-03-04,2021-04-06,2021-04-06,ĐHĐCĐ thường niên năm 2021,,,,
