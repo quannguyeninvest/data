@@ -98,3 +98,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-11-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-10-13,,,"Số lượng 376,000 cp",,,,
 2020-12-02,investorRight,STOCKDIV,Cổ tức bằng cổ phiếu,2020-12-16,2020-12-17,,"Trả cổ tức năm 2019, Tỷ lệ 100:15",,15,,2019
 2020-12-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-12-16,2020-12-31,2020-12-31,Trả cổ tức năm 2019 (500 đ/cp),500,5,,2019
+2021-01-27,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 10,620,774 cp",,,,

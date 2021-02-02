@@ -16,3 +16,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-12-22,investorRight,KINDDIV,Cổ phiếu thưởng,2020-12-29,2020-12-30,,Tỷ lệ 100:20,,20,,
 2021-01-15,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 15,999,908cp cho CĐHH",,,,
 2021-01-21,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2021-01-21,,,Xử phạt vi phạm hành chính đối với hành vi trốn thuế,,,,
+2021-01-28,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 15,999,908 cp",,,,

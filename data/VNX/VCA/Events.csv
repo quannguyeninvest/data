@@ -1,5 +1,5 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
-2011-02-16,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2011-02-21,,,Ngày giao dịch đầu tiên trên sàn UPCOM,,,,
+2011-02-16,stockAlert,listedUpcom,Ngày giao dịch đầu tiên trên UPCoM,2011-02-21,2021-02-22,,Ngày giao dịch đầu tiên trên sàn UPCOM,,,,
 2011-04-06,investorRight,MEETING,Họp cổ đông,2011-04-06,2011-04-29,2011-04-29,ĐHCĐ thường niên 2011,,,,
 2011-05-16,investorRight,DIVIDEND,Cổ tức bằng tiền,2011-05-18,2011-06-10,2011-06-10,Cổ tức đợt 2/2010 (500 đ/cp),500,5,2,2010
 2012-02-10,investorRight,MEETING,Họp cổ đông,2012-02-20,2012-03-16,2012-03-16,Đại hội đồng cổ đông thường niên 2012,,,,
@@ -21,3 +21,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-05-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-05-16,2019-05-29,2019-05-29,Trả cổ tức đợt 2/2018 (2000 đ/cp),2000,20,2,2018
 2020-03-02,investorRight,MEETING,Họp cổ đông,2020-03-24,2020-04-14,2020-04-14,ĐHĐCĐ thường niên năm 2020,,,,
 2020-06-04,investorRight,DIVIDEND,Cổ tức bằng tiền,2020-06-16,2020-06-26,2020-06-26,Trả cổ tức năm 2019 (1500 đ/cp),1500,15,,2019
+2021-01-29,stockAlert,delistedUpcom,Hủy niêm yết trên UPCoM,2021-02-23,,,Hủy niêm yết trên UPCOM,,,,
