@@ -16,3 +16,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-12-28,schedEvent,schedDiv,Dự kiến cổ tức,,,,"Dự kiến trả cổ tức bằng cổ phiếu năm 2020, tỷ lệ 100:50",,50,,2020
 2020-12-31,investorRight,POLL,Lấy ý kiến cổ đông,2021-01-20,,,V/v: Thay đổi nhân sự,,,,
 2021-01-20,investorRight,ISSUE,Phát hành thêm,2021-01-29,2021-03-08,,"Phát hành 16,531,105 cp cho CĐHH, giá 17000 đ/cp, tỷ lệ 100:50",,50,,
+2021-01-27,investorRight,POLL,Lấy ý kiến cổ đông,2021-01-20,2021-02-07,2021-02-07,V/v: Thay đổi nhân sự,,,,

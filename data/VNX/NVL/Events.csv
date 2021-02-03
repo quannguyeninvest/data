@@ -60,6 +60,6 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-11-16,schedEvent,schedIssue,Dự kiến phát hành,2020-11-18,2020-11-18,,"Dự kiến phát hành 379,550cp cho CĐCL",,,,
 2020-12-30,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-01-08,,,"Số lượng 151,820 cp",,,,
 2020-12-31,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-01-11,,,"Số lượng 379,550 cp",,,,
-2021-01-12,investorRight,ISSUE,Phát hành thêm,2021-01-20,2021-02-18,,"Phát hành 77,666,501 cp cho CĐHH, giá 59200 đ/cp, tỷ lệ 100:7.86",,7.86,,
+2021-01-12,investorRight,ISSUE,Phát hành thêm,2021-01-20,2021-02-22,,"Phát hành 77,666,501 cp cho CĐHH, giá 59200 đ/cp, tỷ lệ 100:7.86",,7.86,,
 2021-01-20,investorRight,POLL,Lấy ý kiến cổ đông,2021-02-08,,,V/v: Phát hành cổ phiếu,,,,
 2021-01-26,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-02-03,,,"Số lượng 189,775 cp",,,,
