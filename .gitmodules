@@ -17,3 +17,7 @@
 [submodule "zipline"]
   path = zipline
   url = git@github.com:algo-stocks/zipline.git
+
+[submodule "chart"]
+  path = chart
+  url = git@github.com:dacdoan/stocks-chart.git

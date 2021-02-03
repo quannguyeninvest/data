@@ -6,7 +6,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy-github": "GENERATE_SOURCEMAP=false react-scripts build && rm -rf chart && mv build chart",
+    "deploy-github": "GENERATE_SOURCEMAP=false react-scripts build && rm -rf chart/docs && mv build chart/docs",
     "deploy": "GENERATE_SOURCEMAP=false react-scripts build && rm -rf src/gcloud/www && mv build src/gcloud/www && gcloud -q app deploy src/gcloud/app.yaml --project=stockfx",
     "test": "react-scripts test --env=jsdom",
     "filter": "babel-node --presets es2015 src/filter.js",
