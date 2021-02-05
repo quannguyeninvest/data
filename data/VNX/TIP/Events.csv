@@ -19,6 +19,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-12-12,investorRight,DIVIDEND,Cổ tức bằng tiền,2019-12-30,2020-01-14,2020-01-14,Trả cổ tức đợt 1/2019 (1500 đ/cp),1500,15,1,2019
 2020-04-24,investorRight,MEETING,Họp cổ đông,2020-03-11,2020-05-05,2020-05-05,ĐHĐCĐ thường niên năm 2020,,,,
 2020-05-06,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 14,000,000cp cho CĐHH",,53.84,,
-2020-08-18,investorRight,MEETING,Họp cổ đông,2020-09-07,2020-09-24,2020-09-24,ĐHĐCĐ bất thường năm 2020,,,,
 2020-12-10,investorRight,POLL,Lấy ý kiến cổ đông,2020-12-30,,,V/v: miễn nhiệm và bầu bổ sung thành viên Hội đồng Quản trị nhiệm kỳ (2018-2023),,,,
 2020-12-30,investorRight,DIVIDEND,Cổ tức bằng tiền,2021-01-14,2021-01-28,2021-01-28,Trả cổ tức năm 2020 (1500 đ/cp),1500,15,,2020

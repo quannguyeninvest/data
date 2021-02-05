@@ -1,5 +1,5 @@
 disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content,dividend,ratio,divPeriod,divYear
-2018-08-02,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2018-08-08,,,Giá tham chiếu 12.600 đ/cp,,,,
+2018-08-02,stockAlert,listedHnx,Ngày giao dịch đầu tiên trên HNX,2018-08-08,2021-02-18,,Giá tham chiếu 12.600 đ/cp,,,,
 2018-08-07,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2018-08-08,2019-04-05,,Thời gian niêm yết dưới 6 tháng,,,,
 2018-09-19,stockAlert,alert,Cảnh báo,2018-09-20,2019-03-26,,Chậm nộp BCTC bán niên năm 2018 quá 15 ngày,,,,
 2019-04-19,investorRight,MEETING,Họp cổ đông,2019-05-07,,,ĐHĐCĐ thường niên năm 2019,,,,
@@ -9,3 +9,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2019-08-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2019-09-26,,,"Số lượng 8,000,000 cp",,,,
 2020-04-28,investorRight,MEETING,Họp cổ đông,2020-05-15,,,ĐHĐCĐ thường niên năm 2020,,,,
 2020-10-23,investorRight,MEETING,Họp cổ đông,2020-11-09,2020-12-12,2020-12-12,ĐHĐCĐ bất thường năm 2020,,,,
+2021-02-03,stockAlert,delistedHnx,Hủy niêm yết trên HNX,2021-02-19,,,Hủy niêm yết trên HNX,,,,

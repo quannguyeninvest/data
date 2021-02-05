@@ -7,4 +7,5 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-09-21,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-29,,,"Số lượng 7,355,569 cp",,,,
 2020-09-22,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-03-22,,,"Số lượng 136,948 cp",,,,
 2020-12-31,schedEvent,schedIssue,Dự kiến phát hành,,,,"Dự kiến phát hành 357,477cp ESOP",,0.43,,
-2021-02-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,,,,"Số lượng 258,060 cp",,,,
+2021-02-01,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2021-02-09,,,"Số lượng 258,060 cp",,,,
+2021-02-03,investorRight,MEETING,Họp cổ đông,2021-02-25,2021-03-31,2021-03-31,ĐHĐCĐ thường niên năm 2021,,,,

@@ -22,3 +22,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-01-10,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-01-16,,,Số lượng 8609922 cp,,,,
 2020-05-21,investorRight,MEETING,Họp cổ đông,2020-05-29,2020-06-17,2020-06-17,ĐHĐCĐ thường niên năm 2020,,,,
 2020-09-04,stockAlert,nomargin,CP không đủ điều kiện GD ký quỹ,2020-09-08,,,LNST cty mẹ trên BCTC 6T năm 2020 âm,,,,
+2021-02-02,investorRight,DIVIDEND,Cổ tức bằng tiền,2021-02-22,2021-03-04,2021-03-04,Trả cổ tức năm 2019 (1000 đ/cp),1000,10,,2019

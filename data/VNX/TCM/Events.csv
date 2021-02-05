@@ -55,3 +55,4 @@ disclosuredDate,group,type,typeDesc,effectiveDate,expiredDate,actualDate,content
 2020-08-20,schedEvent,schedUpdate,Dự kiến giao dịch bổ sung,2020-09-01,,,"Số lượng 4,051,431 cp",,,,
 2020-12-24,investorRight,DIVIDEND,Cổ tức bằng tiền,2021-01-11,2021-02-04,2021-02-04,Trả cổ tức đợt 1/2020 (500 đ/cp),500,5,1,2020
 2020-12-24,investorRight,POLL,Lấy ý kiến cổ đông,2021-01-11,,,V/v: Thay đổi nhân sự,,,,
+2021-02-02,investorRight,MEETING,Họp cổ đông,2021-03-08,2021-04-09,2021-04-09,ĐHĐCĐ thường niên năm 2021,,,,
